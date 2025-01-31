@@ -1,0 +1,39 @@
+What is the primary material used in wooden furniture?;Wood;Metal;Plastic;Glass;0
+Which of these is an essential piece of living room furniture?;Sofa;Oven;Shower;Bed;0
+What type of furniture is commonly used for storage?;Cabinet;Chair;Table;Mirror;0
+Which furniture piece is used for sleeping?;Bed;Chair;Sofa;Shelf;0
+What is the main purpose of a coffee table?;Holding drinks and small items;Sleeping;Cooking;Reading;0
+Which material is commonly used for making office chairs?;Leather;Cotton;Glass;Ceramic;0
+What is the name of the furniture piece used to store clothes?;Wardrobe;Table;Stool;Shelf;0
+Which room is a dining table commonly placed in?;Dining room;Bathroom;Garage;Bedroom;0
+What is a recliner?;A comfortable chair that tilts back;A type of table;A type of bed;A bookshelf;0
+What is an ottoman used for?;Resting feet;Hanging clothes;Cooking;Sleeping;0
+What type of furniture is a "sectional"?;A large sofa made of multiple pieces;A type of chair;A dining table;A bookshelf;0
+What is the purpose of a nightstand?;To hold items beside the bed;To store clothes;For sitting;For decoration;0
+What type of wood is often used in high-quality furniture?;Oak;Plastic;Bamboo;Steel;0
+Which of these is a type of seating furniture?;Bench;Desk;Wardrobe;Bookshelf;0
+What is the function of a bookshelf?;To store books;To sleep on;To cook food;To watch TV;0
+Which furniture is used to support a mattress?;Bed frame;Table;Bookshelf;Chair;0
+Which piece of furniture is often found in an office?;Desk;Bed;Stove;Bathtub;0
+Which type of furniture provides extra seating space?;Sofa;Table;Cabinet;Wardrobe;0
+What is a common material for outdoor furniture?;Rattan;Velvet;Glass;Marble;0
+Which furniture piece is commonly used in a home office?;Desk;Oven;Wardrobe;Sofa;0
+What is an armoire used for?;Storing clothes;Cooking;Reading;Washing dishes;0
+Which piece of furniture is often used for dining?;Table;Sofa;Bed;Shelf;0
+Which furniture type provides a place to sleep?;Bed;Chair;Desk;Bookshelf;0
+What is the primary purpose of a dresser?;Storing clothes;Cooking;Reading;Washing dishes;0
+What is the most common material used for making a couch?;Fabric;Glass;Marble;Ceramic;0
+Which type of furniture is commonly used in the kitchen?;Cabinet;Sofa;Desk;Bed;0
+What type of furniture is a futon?;A convertible bed/sofa;A dining chair;A wooden table;A metal cabinet;0
+Which furniture is usually found in a hallway for storage?;Console table;Wardrobe;Dining table;Bed;0
+What is a vanity table used for?;Applying makeup;Eating meals;Sleeping;Cooking;0
+Which furniture is commonly used in a living room?;Sofa;Oven;Toilet;Bathtub;0
+What is a headboard attached to?;A bed;A wardrobe;A desk;A table;0
+Which furniture item is best for relaxing?;Recliner;Dining chair;Office desk;Wardrobe;0
+What is a bunk bed designed for?;Sleeping multiple people;Eating meals;Working;Cooking;0
+What is a chaise lounge used for?;Relaxing;Storing items;Cooking;Working;0
+Which furniture is used for hanging clothes?;Coat rack;Dining table;Sofa;Desk;0
+What type of furniture is a loveseat?;A small sofa for two people;A type of table;A wooden shelf;A reclining chair;0
+Which furniture piece is often used as a workspace?;Desk;Sofa;Bed;Bookshelf;0
+What is a dining chair used for?;Sitting at a dining table;Sleeping;Storing books;Cooking;0
+What is a side table used for?;Holding small items;Sleeping;Cooking;Bathing;0
