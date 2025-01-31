@@ -177,7 +177,7 @@ form button:focus{
 }
 a{
   text-decoration: none;
-  color: var(--base-color);
+  color: var(--accent-color);
 }
 a:hover{
   text-decoration: underline;
